@@ -127,6 +127,13 @@ coming soon
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-munguti-8a257a1bb/)
 
 
+**Cephas Tokoli**
+
+- GitHub: [@Ctokoli](https://github.com/ctokoli/)
+- Twitter: [@Ctokoli](https://twitter.com/ctokoli)
+- LinkedIn: [Cephas Tokoli](https://www.linkedin.com/in/ctokoli)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
