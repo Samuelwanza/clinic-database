@@ -6,9 +6,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 - Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
 
-
 <a name="readme-top"></a>
-
 
 # 📗 Table of Contents
 
@@ -66,14 +64,11 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 🚀 Live Demo <a name="live-demo"></a>
-
 
 - [Live Demo Link]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -86,34 +81,30 @@ In order to run this project you need:
 -Github
 -Command Line
 
-
-
 ### Setup
 
 Clone this repository to your desired folder:
-
 
 ```sh
   cd my-folder
   git clone git@github.com:Samuelwanza/clinic-datanase.git
 ```
 
-
 ### Install
 
 Install this project with:
 
-
 Install postgreSQL [https://www.postgresql.org/download/]
-
 
 ### Run tests
 
 To run tests,
 -copy the code in schema.sql in your psql commandline and execute
--Copy the  code in data.sql and run it in the psql commandline
+-Copy the code in data.sql and run it in the psql commandline
 -Then run each of the queries in queries.sql one by one on the psql commandline
+
 ### LIVE DEMO <a name="live-demo"></a>
+
 coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -126,16 +117,18 @@ coming soon
 - Twitter: [@Samuelwanza](https://twitter.com/samuelmunguti9)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-munguti-8a257a1bb/)
 
-
 **Cephas Tokoli**
 
 - GitHub: [@Ctokoli](https://github.com/ctokoli/)
 - Twitter: [@Ctokoli](https://twitter.com/ctokoli)
 - LinkedIn: [Cephas Tokoli](https://www.linkedin.com/in/ctokoli)
 
+**Majd Alkilany**
+
+- GitHub: [@majdalkilany](https://github.com/majdalkilany/)
+- LinkedIn: [majd alkilany](https://www.linkedin.com/in/majdalkilany)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -155,13 +148,11 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## ⭐️ Show your support <a name="support"></a>
 
 If you like this project give a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -169,9 +160,7 @@ We would like to thank Microverse community.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 ## 📝 License <a name="license"></a>
 
