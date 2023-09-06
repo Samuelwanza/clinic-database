@@ -1,12 +1,3 @@
-# clinic Database
-
-## Getting Started
-
-This repository includes files with plain SQL that can be used to recreate a database:
-
-- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
-
-<a name="readme-top"></a>
 
 # 📗 Table of Contents
 
@@ -64,13 +55,15 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link]()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
+
+# clinic Database
+
+This repository includes files with plain SQL that can be used to recreate a database:
+
+- Use [schema_based_on_diagram.sql](./schema_based_on_diagram.sql) to create all tables.
+
+<a name="readme-top"></a>
 
 ### Prerequisites
 
